@@ -98,7 +98,7 @@ function Home() {
         </p>
         <button  id="readmoood" >Read More</button>
       </div>
-      <div className="section-5">
+      <div className="section-5" style={{marginTop:"5vh"}}>
         <div className="section-5-left">
           <h1>Online Classes</h1>
           <p>
