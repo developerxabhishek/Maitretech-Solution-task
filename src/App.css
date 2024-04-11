@@ -57,6 +57,7 @@ nav > ul > li:hover {
   padding-right: 10%;
   padding-left: 10%;
   font-size: 18px;
+  line-height: 25px;
 }
 .section-4 > button {
   padding: 15px;
@@ -540,3 +541,5 @@ background: linear-gradient(97deg, rgba(171,29,116,1) 0%, rgba(79,15,188,1) 99%,
   background: rgb(171,29,116);
 background: linear-gradient(97deg, rgba(171,29,116,1) 0%, rgba(79,15,188,1) 99%, rgba(79,15,189,1) 100%);
 }
+
+
